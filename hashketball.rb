@@ -2,9 +2,9 @@
 def game_hash 
   hash = {
     :home => {
-      :team_name,
-      :colors,
-      :players => {
+      :team_name => "Brooklyn Nets",
+      :colors => "",
+      :players => [
         :player_name,
         :number,
         :shoe,
@@ -14,7 +14,7 @@ def game_hash
         :steals,
         :blocks,
         :slam_dumnks
-      }
+      ]
     }
     :away => {
       
