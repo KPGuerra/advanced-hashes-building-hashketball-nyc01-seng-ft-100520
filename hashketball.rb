@@ -61,6 +61,7 @@ def game_hash
           :slam_dumnks => 1
         }
       ]
+    }
     :away => {
       
     }
